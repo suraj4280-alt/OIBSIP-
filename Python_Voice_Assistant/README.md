@@ -29,7 +29,7 @@ It can listen to your voice, understand commands, and speak back the answers.
 **Step 1:** Clone this repo or download the files
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/OIBSIP.git
+git clone https://github.com/suraj4280-alt/OIBSIP-.git
 cd OIBSIP/Python_Voice_Assistant
 ```
 
@@ -105,7 +105,7 @@ Python_Voice_Assistant/
 
 ## Author
 
-Made by **[Your Name]** as part of **Oasis Infobyte Python Internship**
+Made by **Suraj** as part of **Oasis Infobyte Python Internship**
 
 ## License
 
